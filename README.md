@@ -1,2 +1,1 @@
-# tindog-course
-Udemy-course
+TinDog Starting Files
